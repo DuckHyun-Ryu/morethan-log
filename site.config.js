@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `goldduck's blog`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `모지실;모든 지식은 실용적으`,
+      href: "https://blog.naver.com/rdh1993",
     },
   ],
   // blog setting (required)
